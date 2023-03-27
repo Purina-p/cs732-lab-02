@@ -1,0 +1,25 @@
+.footer p{
+    text-align: center;
+}
+
+.header {
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0 20px;
+}
+
+.header a{
+    color: black;
+    text-decoration: none;
+    padding: 0 10px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.activeLink {
+    background-color: wheat;
+}
+
